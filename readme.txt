@@ -1,3 +1,4 @@
+Testing creating new branch with same name as previous
 This will be the third change
 Test second commit - nothing pushed yet
 Testing pushing branches
