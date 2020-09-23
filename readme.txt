@@ -1,6 +1,3 @@
-This will be the third change
-Test second commit - nothing pushed yet
-Testing pushing branches
 Texas A&M Geoservices - Plugin for Arcmap (Ver. 1.0.0.0)
 
 
